@@ -25,7 +25,7 @@
   "devDependencies": {
     "@types/marked": "^2.0.0",
     "@types/pluralize": "0.0.29",
-    "boxen": "^5.0.0",
+    "boxen": "^6.2.1",
     "chai": "^4.3.3",
     "chokidar": "^3.5.1",
     "clean-css": "^5.1.1",
